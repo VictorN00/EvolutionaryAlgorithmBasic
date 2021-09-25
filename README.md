@@ -5,4 +5,5 @@ Basic simulations using evolutionary algorithms (mostly genetic)
 - knapsack_genetic_algorithm.py uses a genetic algorithm to solve the knapsack problem
   - not guaranteed to find the optimal combination, verified by the dynamic programming solution
 - cluster_ea.py implements a genetic algorithm to cluster around certain points
+  - work in progress
   - very similar to finding local or global minima/maxima except with 2D instead of 3D
